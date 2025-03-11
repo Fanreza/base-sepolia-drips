@@ -3,6 +3,9 @@
 ## Overview
 The **BaseSepoliaFaucetContract** is a simple smart contract designed for the Sepolia testnet, providing a faucet mechanism that allows users to request a small amount of ETH with a cooldown period. Additionally, users can deposit ETH into the contract to fund the faucet.
 
+### Sample Verified Contract
+https://sepolia.basescan.org/address/0x11274e325a2c924a744b35aa5fefca314e4c59cd
+
 ## Features
 
 ### 1. **Request Faucet (0.001 ETH per request)**
